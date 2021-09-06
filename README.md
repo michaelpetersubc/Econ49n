@@ -27,7 +27,7 @@ The following is a preliminary set of topics and tentative dates.
 
 * September 10. Introduction, A theorem from directed search mike
 * September 17. a theoretical generalization mike  - stochastic block model james (actionable) [https://github.com/michaelpetersubc/smb_project/blob/main/write_up/assignment.pdf](https://github.com/michaelpetersubc/smb_project/blob/main/write_up/assignment.pdf)
-* September 24. Clemens competing algorithms (actionable)
+* September 24. Clemens competing algorithms (actionable) [slides_final-1.pdf](clemens/slides_final-1.pdf)
 * October 1. is the supreme court strategic li hao (actionable)
 * October 8. li hao
 * October 15. An experiment to estimate loss aversion using the Ultimatum Game - https://montoya.econ.ubc.ca/Econ600/mike_reference_offer.pdf
