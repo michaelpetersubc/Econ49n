@@ -21,6 +21,8 @@ Meetings are Friday at 2PM.  There will be presentations by multiple speakers.
 
 Grades are based on individual projects which you will present.  The first part of the course at least will be on zoom to keep it as open as possible.
 
+Too make it easy to communicate please join the dicord channel Econ514.  Use the text channel econ49n to communicate about the course.  We'll also have occaisional video meetings.   If you don't use discord get an account from discord.com.  If you need an invite you can ask anyone you know in the group.  
+
 
 ## Readings
 The following is a preliminary set of topics and tentative dates. 
