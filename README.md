@@ -25,17 +25,23 @@ Grades are based on individual projects which you will present.  The first part 
 ## Readings
 The following is a preliminary set of topics and tentative dates. 
 
-* September 10. Introduction, A theorem from directed search mike
-* September 17. a theoretical generalization mike  - stochastic block model james (actionable) [https://github.com/michaelpetersubc/smb_project/blob/main/write_up/assignment.pdf](https://github.com/michaelpetersubc/smb_project/blob/main/write_up/assignment.pdf)
-* September 24. Clemens competing algorithms (actionable) [slides_final-1.pdf](clemens/slides_final-1.pdf)
+* September 10. Introduction, Matching as a network problem. A theorem from directed search mike
+  * [Placement Data](https://support.econjobmarket.org/api/mapinator)
+  * [The mapinator](https://sage.microeconomics.ca)
+* September 17. a theoretical generalization mike  - stochastic block model james (actionable) 
+  * [Estimate types use the stochastic block model](https://github.com/michaelpetersubc/smb_project/blob/main/write_up/assignment.pdf)
+* September 24. Clemens competing algorithms (actionable) 
+  * [slides_final-1.pdf](clemens/slides_final-1.pdf)
 * October 1. is the supreme court strategic li hao (actionable)
 * October 8. li hao
-* October 15. An experiment to estimate loss aversion using the Ultimatum Game - https://montoya.econ.ubc.ca/Econ600/mike_reference_offer.pdf
-    * Data from the experiment. - https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ultimatum_game mike (actionable)
-  October 22 wei networks communication?
-  October 29. project
-  Nov 5. project
-* Week 12. The theory of Auctions - https://montoya.econ.ubc.ca/Econ600/auctions.pdf
-* Nov 19. Data from eBay - computer chips - https://github.com/michaelpetersubc/notebooks/tree/master/processors
-* Nov 29. from eBay - cameras - https://github.com/michaelpetersubc/notebooks/tree/master/eBay
-
+* October 15. Estimating loss aversion using an experiment on the Ultimatum Game - 
+  * https://montoya.econ.ubc.ca/Econ600/mike_reference_offer.pdf
+  * Data from the experiment. - https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ultimatum_game mike (actionable)
+* October 22 wei networks communication?
+* October 29. project presentation
+* Nov 5. project prestation
+* Nov 12. Problems using Auction Theory - https://montoya.econ.ubc.ca/Econ600/auctions.pdf
+  * Data from eBay - computer chips - https://github.com/michaelpetersubc/notebooks/tree/master/processors
+  * Data from eBay - cameras - https://github.com/michaelpetersubc/notebooks/tree/master/eBay
+* Nov 19 final presentations
+* Nov 26 final presentations
