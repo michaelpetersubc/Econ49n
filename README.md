@@ -39,9 +39,10 @@ The following is a preliminary set of topics and tentative dates.
 * October 15. Estimating loss aversion using an experiment on the Ultimatum Game - 
   * https://montoya.econ.ubc.ca/Econ600/mike_reference_offer.pdf
   * Data from the experiment. - https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ultimatum_game mike (actionable)
-* October 22 wei networks communication?
+* October 22 Social Learning on Networks: theory and evidence
+  * Testing Models of Social Learning on Networks: Evidence From Two Experiments, A. Chandrasekhar, H. Larreguy & JP. Xandri, EMA 2020.
 * October 29. project presentation
-* Nov 5. project prestation
+* Nov 5. Strategic Influencer of Naive Agents
 * Nov 12. Problems using Auction Theory - https://montoya.econ.ubc.ca/Econ600/auctions.pdf
   * Data from eBay - computer chips - https://github.com/michaelpetersubc/notebooks/tree/master/processors
   * Data from eBay - cameras - https://github.com/michaelpetersubc/notebooks/tree/master/eBay
