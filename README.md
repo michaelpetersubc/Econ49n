@@ -31,7 +31,7 @@ The following is a preliminary set of topics and tentative dates.
   * [Placement Data](https://support.econjobmarket.org/api/mapinator)
   * [The mapinator](https://sage.microeconomics.ca)
 * September 17. a theoretical generalization mike  - stochastic block model james (actionable) 
-  * [Estimate types use the stochastic block model](https://github.com/michaelpetersubc/smb_project/blob/main/write_up/assignment.pdf)
+  * [Estimate types use the stochastic block model](https://github.com/jbrightuniverse/EJM-Project/blob/main/assignment.pdf)
 * September 24. Clemens competing algorithms (actionable) 
   * [slides_final-1.pdf](clemens/slides_final-1.pdf)
 * October 1. is the supreme court strategic li hao (actionable)
