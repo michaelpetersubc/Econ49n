@@ -27,7 +27,8 @@ Too make it easy to communicate please join the dicord channel Econ514.  Use the
 ## Readings
 The following is a preliminary set of topics and tentative dates. 
 
-* September 10. Introduction, Matching as a network problem. A theorem from directed search mike
+* September 10. Introduction, Matching as a network problem. mike
+  * [A Theorem from Directed Search](https://montoya.econ.ubc.ca/papers/markets/notes.pdf)
   * [Placement Data](https://support.econjobmarket.org/api/mapinator)
   * [The mapinator](https://sage.microeconomics.ca)
 * September 17. a theoretical generalization mike  - stochastic block model james (actionable) 
@@ -35,6 +36,7 @@ The following is a preliminary set of topics and tentative dates.
 * September 24. Clemens competing algorithms (actionable) 
   * [slides_final-1.pdf](clemens/slides_final-1.pdf)
 * October 1. is the supreme court strategic li hao (actionable)
+  * The Value of Information in the Court: Get it Right, Keep it Tight, Iaryczower and Shum (American Economic Review, 2012).
 * October 8. li hao
 * October 15. Estimating loss aversion using an experiment on the Ultimatum Game - 
   * https://montoya.econ.ubc.ca/Econ600/mike_reference_offer.pdf
