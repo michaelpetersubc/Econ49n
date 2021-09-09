@@ -46,5 +46,5 @@ The following is a preliminary set of topics and tentative dates.
 * Nov 12. Problems using Auction Theory - https://montoya.econ.ubc.ca/Econ600/auctions.pdf
   * Data from eBay - computer chips - https://github.com/michaelpetersubc/notebooks/tree/master/processors
   * Data from eBay - cameras - https://github.com/michaelpetersubc/notebooks/tree/master/eBay
-* Nov 19 final presentations
+* Nov 19 Worst-case analysis - Vitor
 * Nov 26 final presentations
