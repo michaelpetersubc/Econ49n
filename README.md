@@ -21,7 +21,7 @@ Meetings are Friday at 2PM.  There will be presentations by multiple speakers.
 
 Grades are based on individual projects which you will present.  The first part of the course at least will be on zoom to keep it as open as possible.
 
-Too make it easy to communicate please join the dicord channel Econ514.  Use the text channel econ49n to communicate about the course.  We'll also have occaisional video meetings.   If you don't use discord get an account from discord.com.  If you need an invite you can ask anyone you know in the group.  
+Too make it easy to communicate please join the discord channel Econ514.  Use the text channel econ49n to communicate about the course.  We'll also have occaisional video meetings.   If you don't use discord get an account from discord.com.  If you need an invite you can ask anyone you know in the group.  
 
 
 ## Readings
@@ -41,6 +41,7 @@ The following is a preliminary set of topics and tentative dates.
 * October 15. Estimating loss aversion using an experiment on the Ultimatum Game - 
   * https://montoya.econ.ubc.ca/Econ600/mike_reference_offer.pdf
   * Data from the experiment. - https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ultimatum_game mike (actionable)
+  * [slides](https://github.com/michaelpetersubc/notebooks/blob/b253f9e6e79e1cd2dc08c3585a9708a3d55bc1a2/Econ515/ultimatum_game/ultimatum_game_2.ipynb)
 * October 22 Social Learning on Networks: theory and evidence,  Wei
   * Testing Models of Social Learning on Networks: Evidence From Two Experiments, A. Chandrasekhar, H. Larreguy & JP. Xandri, EMA 2020.
 * October 29. project presentation
